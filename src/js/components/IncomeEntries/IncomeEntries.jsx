@@ -74,7 +74,7 @@ export default class IncomeEntries extends React.Component {
               className="btn btn-success col-12 mb-5"
               onClick={this.handleAddIncome}
             >
-              + Add Income'
+              + Add Income
             </button>
             <table className="table table-sm table-hover">
               <thead>

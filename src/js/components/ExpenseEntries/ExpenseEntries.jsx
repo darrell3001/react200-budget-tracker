@@ -74,7 +74,7 @@ export default class ExpenseEntries extends React.Component {
               className="btn btn-danger col-12 mb-5"
               onClick={this.handleAddExpense}
             >
-              + Add Expense'
+              + Add Expense
             </button>
             <table className="table table-sm table-hover">
               <thead>
